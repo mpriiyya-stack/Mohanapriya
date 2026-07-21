@@ -1,2 +1,2 @@
 # Mohanapriya
-day - 1 task
+day -1
