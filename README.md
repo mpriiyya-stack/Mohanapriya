@@ -1,5 +1,5 @@
 # Mohanapriya
-day -1
+Day -1
 ("AI/ML Training Log")
 Name: Mohanapriya  
 Mentor: Aditi Krishana
@@ -25,3 +25,18 @@ Mentor: Aditi Krishana
 - git commit -m "Day 1: first commit"
 - git branch -M main
 - git push 
+
+Day 2
+# Today I learned:
+- String indexing and slicing
+- String methods like lower(), upper(), strip(), replace(), split(), and join()
+- f-strings for formatted output
+- Reversing strings using slicing
+- List operations (append, remove, indexing)
+- Using enumerate() in loops
+- Tuples and their immutability
+- Dictionary creation and iteration
+- Creating Git branches
+- Committing and pushing code to GitHub
+
+
