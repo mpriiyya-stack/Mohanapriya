@@ -2,7 +2,7 @@
 day -1
 ("AI/ML Training Log")
 Name: Mohanapriya  
-Mentor: Aditi Krishana
+gitMentor: Aditi Krishana
 # Topics Learned
 - Python installation and setup
 - Visual Studio Code setup
