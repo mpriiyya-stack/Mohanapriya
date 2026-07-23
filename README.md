@@ -3,11 +3,6 @@ Day -1
 ("AI/ML Training Log")
 Name: Mohanapriya  
 Mentor: Aditi Krishana
-# Mohanapriya
-Day -1
-("AI/ML Training Log")
-Name: Mohanapriya  
-gitMentor: Aditi Krishana
 
 1. Hello World
 - Learn how to print output in Python.
