@@ -1,5 +1,5 @@
 # Mohanapriya
-Day -1
+# Day -1
 ("AI/ML Training Log")
 Name: Mohanapriya  
 Mentor: Aditi Krishana
@@ -88,7 +88,7 @@ Feature Used: f-string (Formatted String Literal)
 - git branch -M main
 - git push
 
-Day - 2
+# Day - 2
 1. String Indexing
  - String Indexing (`[]`)
 - String indexing is used to access individual characters in a string.
