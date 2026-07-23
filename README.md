@@ -88,11 +88,8 @@ Feature Used: f-string (Formatted String Literal)
 - git branch -M main
 - git push
 
-<<<<<<< HEAD
 # Day - 2
-=======
-Day - 2
->>>>>>> day2-word-counter
+day2-word-counter
 1. String Indexing
  - String Indexing (`[]`)
 - String indexing is used to access individual characters in a string.
@@ -160,7 +157,6 @@ Day - 2
 - I learned how to get both the index and value in a loop.
 - I learned that `enumerate()` makes loops easier to read.
 13. Tuples
-<<<<<<< HEAD
 - A tuple stores multiple values and cannot be modified after creation.
 # What I Learned
 - I learned that tuples are immutable.
@@ -170,9 +166,62 @@ Day - 2
 # What I Learned
 - I learned how to create dictionaries.
 - I learned how to access values using keys.
-=======
 
+# Day 3
 
+1. Functions (Without Parameters)
+- Functions are reusable blocks of code.
+A function is created using the `def` keyword and executed by calling its name.
+# What I Learned
+- How to create a function.
+- How to call a function.
+- Functions help avoid writing the same code repeatedly.
 
->>>>>>> day2-word-counter
+2. Functions (With Parameters)
 
+- Parameters allow data to be passed into a function.
+Functions can accept one or more parameters to perform operations on different inputs.
+# What I Learned
+- How to pass arguments to a function.
+- How parameters make functions reusable.
+- Used f-strings with function parameters.
+3. Return Values
+- Functions can return values using the `return` keyword.
+The `return` statement sends the result back to the caller instead of printing it inside the function.
+# What I Learned
+- Difference between `print()` and `return`.
+- Stored returned values in variables.
+- Printed returned values.
+4. Default Parameters
+- Functions can have default parameter values.
+A default value is used when no argument is passed to the function.
+# What I Learned
+- Created functions with default parameters.
+- Called functions with and without arguments.
+- Learned how default values improve flexibility.
+5. Docstrings
+
+- Docstrings describe the purpose of a function.
+A docstring is written inside triple quotes (`""" """`) immediately below the function definition.
+# What I Learned
+- Added documentation to functions.
+- Learned that docstrings improve code readability.
+- Understood that docstrings explain what a function does.
+6. Variable Scope
+- Variables can have local or global scope.
+Variables created inside a function are local, while variables created outside are global.
+# What I Learned
+- Local variables are accessible only inside the function.
+- Accessing a local variable outside the function causes a `NameError`.
+- Global variables can be accessed throughout the program.
+- Using the `global` keyword modifies the global variable inside a function.
+7. Git & GitHub
+- Practiced Git branching and merging.
+Git branches allow developers to work on new features without affecting the main branch.
+# What I Learned
+- Merged the `day2-word-counter` branch into `main`.
+- Resolved merge conflicts in `README.md`.
+- Pushed the updated `main` branch to GitHub.
+- Deleted the merged branch.
+- Created a new branch called `day3-refactor`.
+- Pushed the new branch to GitHub.
