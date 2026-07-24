@@ -38,16 +38,6 @@ print() → Displays the value stored in the variable.
 # Function Used
 - input()
 - print()
- # Example
-name = input("Enter your name: ")
-age = input("Enter your age: ")
-print("Name:", name)
-print("Age:", age)
-# Output
-Enter your name: Priya
-Enter your age: 21
-Name: Priya
-Age: 21
 4. f-Strings
 - `f` allows variables and expressions to be inserted directly inside a string using curly braces `{}`.
 # What I Learned
