@@ -76,10 +76,9 @@ Feature Used: f-string (Formatted String Literal)
 - git add.
 - git commit -m "Day 1: first commit"
 - git branch -M main
-- git push
 
 # Day - 2
-day2-word-counter
+ day2-word-counter
 1. String Indexing
  - String Indexing (`[]`)
 - String indexing is used to access individual characters in a string.
@@ -147,6 +146,7 @@ day2-word-counter
 - I learned how to get both the index and value in a loop.
 - I learned that `enumerate()` makes loops easier to read.
 13. Tuples
+
 - A tuple stores multiple values and cannot be modified after creation.
 # What I Learned
 - I learned that tuples are immutable.
@@ -190,6 +190,7 @@ A default value is used when no argument is passed to the function.
 - Called functions with and without arguments.
 - Learned how default values improve flexibility.
 5. Docstrings
+
 
 - Docstrings describe the purpose of a function.
 A docstring is written inside triple quotes (`""" """`) immediately below the function definition.
