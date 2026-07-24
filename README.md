@@ -87,12 +87,8 @@ Feature Used: f-string (Formatted String Literal)
 - git commit -m "Day 1: first commit"
 - git branch -M main
 - git push
-
-<<<<<<< HEAD
-# Day - 2
-=======
-Day - 2
->>>>>>> day2-word-counter
+# day 2
+ day2-word-counter
 1. String Indexing
  - String Indexing (`[]`)
 - String indexing is used to access individual characters in a string.
@@ -160,7 +156,7 @@ Day - 2
 - I learned how to get both the index and value in a loop.
 - I learned that `enumerate()` makes loops easier to read.
 13. Tuples
-<<<<<<< HEAD
+
 - A tuple stores multiple values and cannot be modified after creation.
 # What I Learned
 - I learned that tuples are immutable.
@@ -170,9 +166,5 @@ Day - 2
 # What I Learned
 - I learned how to create dictionaries.
 - I learned how to access values using keys.
-=======
 
-
-
->>>>>>> day2-word-counter
 
