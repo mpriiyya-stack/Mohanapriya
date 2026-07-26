@@ -216,3 +216,47 @@ Git branches allow developers to work on new features without affecting the main
 - Deleted the merged branch.
 - Created a new branch called `day3-refactor`.
 - Pushed the new branch to GitHub.
+
+# Day 4
+# 1. File Handling
+
+- Learned how to create, write, read, append, and process text files using Python.
+- Python provides the `open()` function to work with files. Different file modes such as `"r"`, `"w"`, and `"a"` are used for reading, writing, and appending data.
+# What I Learned
+- Created a new text file using write mode.
+- Wrote multiple lines into a file.
+- Read the complete contents of a file.
+- Read a file line by line.
+- Appended new content without deleting existing data.
+- Understood different file modes (`r`, `w`, `a`).
+# 2. Error Handling
+- Learned how to handle program errors without crashing.
+- Python uses `try`, `except`, `else`, and `finally` blocks to handle exceptions gracefully and improve program reliability.
+# What I Learned
+- Handled `FileNotFoundError`.
+- Handled `ZeroDivisionError`.
+- Handled `ValueError`.
+- Used `try`, `except`, `else`, and `finally`.
+- Displayed user-friendly error messages.
+# 3. File-Based Word Counter
+
+- Modified the previous word counter to read input from a text file.
+- Files can be processed to count word frequencies and save the results into another file.
+# What I Learned
+- Read text from `input.txt`.
+- Counted the frequency of each word.
+- Stored results using a dictionary.
+- Saved the output into `word_counts.txt`.
+- Checked whether the input file exists before reading it.
+- Used `os.path.exists()` for file checking.
+# 4. Modules and Code Organization
+- Learned how to organize Python code into multiple modules.
+- Modules help split programs into reusable files, making projects easier to maintain and understand.
+# What I Learned
+- Created custom modules.
+- Imported functions using `import` and `from ... import`.
+- Built a calculator module.
+- Built a FizzBuzz module.
+- Created a Number Guessing Game using the `random` module.
+- Used the `os` module to check whether files exist.
+- Understood the importance of modular programming and reusable code.
