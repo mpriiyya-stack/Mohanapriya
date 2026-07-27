@@ -166,5 +166,103 @@ Feature Used: f-string (Formatted String Literal)
 # What I Learned
 - I learned how to create dictionaries.
 - I learned how to access values using keys.
+# Day 3
+1. Functions (Without Parameters)
+- Functions are reusable blocks of code.
+A function is created using the `def` keyword and executed by calling its name.
+# What I Learned
+- How to create a function.
+- How to call a function.
+- Functions help avoid writing the same code repeatedly.
 
+2. Functions (With Parameters)
 
+- Parameters allow data to be passed into a function.
+Functions can accept one or more parameters to perform operations on different inputs.
+# What I Learned
+- How to pass arguments to a function.
+- How parameters make functions reusable.
+- Used f-strings with function parameters.
+3. Return Values
+- Functions can return values using the `return` keyword.
+The `return` statement sends the result back to the caller instead of printing it inside the function.
+# What I Learned
+- Difference between `print()` and `return`.
+- Stored returned values in variables.
+- Printed returned values.
+4. Default Parameters
+- Functions can have default parameter values.
+A default value is used when no argument is passed to the function.
+# What I Learned
+- Created functions with default parameters.
+- Called functions with and without arguments.
+- Learned how default values improve flexibility.
+5. Docstrings
+- Docstrings describe the purpose of a function.
+A docstring is written inside triple quotes (`""" """`) immediately below the function definition.
+# What I Learned
+- Added documentation to functions.
+- Learned that docstrings improve code readability.
+- Understood that docstrings explain what a function does.
+6. Variable Scope
+- Variables can have local or global scope.
+Variables created inside a function are local, while variables created outside are global.
+# What I Learned
+- Local variables are accessible only inside the function.
+- Accessing a local variable outside the function causes a `NameError`.
+- Global variables can be accessed throughout the program.
+- Using the `global` keyword modifies the global variable inside a function.
+7. Git & GitHub
+- Practiced Git branching and merging.
+Git branches allow developers to work on new features without affecting the main branch.
+# What I Learned
+- Merged the `day2-word-counter` branch into `main`.
+- Resolved merge conflicts in `README.md`.
+- Pushed the updated `main` branch to GitHub.
+- Deleted the merged branch.
+- Created a new branch called `day3-refactor`.
+- Pushed the new branch to GitHub.
+
+# Day 4
+# 1. File Handling
+
+- Learned how to create, write, read, append, and process text files using Python.
+- Python provides the `open()` function to work with files. Different file modes such as `"r"`, `"w"`, and `"a"` are used for reading, writing, and appending data.
+# What I Learned
+- Created a new text file using write mode.
+- Wrote multiple lines into a file.
+- Read the complete contents of a file.
+- Read a file line by line.
+- Appended new content without deleting existing data.
+- Understood different file modes (`r`, `w`, `a`).
+# 2. Error Handling
+- Learned how to handle program errors without crashing.
+- Python uses `try`, `except`, `else`, and `finally` blocks to handle exceptions gracefully and improve program reliability.
+# What I Learned
+- Handled `FileNotFoundError`.
+- Handled `ZeroDivisionError`.
+- Handled `ValueError`.
+- Used `try`, `except`, `else`, and `finally`.
+- Displayed user-friendly error messages.
+# 3. File-Based Word Counter
+
+- Modified the previous word counter to read input from a text file.
+- Files can be processed to count word frequencies and save the results into another file.
+# What I Learned
+- Read text from `input.txt`.
+- Counted the frequency of each word.
+- Stored results using a dictionary.
+- Saved the output into `word_counts.txt`.
+- Checked whether the input file exists before reading it.
+- Used `os.path.exists()` for file checking.
+# 4. Modules and Code Organization
+- Learned how to organize Python code into multiple modules.
+- Modules help split programs into reusable files, making projects easier to maintain and understand.
+# What I Learned
+- Created custom modules.
+- Imported functions using `import` and `from ... import`.
+- Built a calculator module.
+- Built a FizzBuzz module.
+- Created a Number Guessing Game using the `random` module.
+- Used the `os` module to check whether files exist.
+- Understood the importance of modular programming and reusable code.
