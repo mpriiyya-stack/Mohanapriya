@@ -38,6 +38,16 @@ print() → Displays the value stored in the variable.
 # Function Used
 - input()
 - print()
+ # Example
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Name:", name)
+print("Age:", age)
+# Output
+Enter your name: Priya
+Enter your age: 21
+Name: Priya
+Age: 21
 4. f-Strings
 - `f` allows variables and expressions to be inserted directly inside a string using curly braces `{}`.
 # What I Learned
@@ -76,8 +86,8 @@ Feature Used: f-string (Formatted String Literal)
 - git add.
 - git commit -m "Day 1: first commit"
 - git branch -M main
-
-# Day - 2
+- git push
+# day 2
  day2-word-counter
 1. String Indexing
  - String Indexing (`[]`)
@@ -156,9 +166,7 @@ Feature Used: f-string (Formatted String Literal)
 # What I Learned
 - I learned how to create dictionaries.
 - I learned how to access values using keys.
-
 # Day 3
-
 1. Functions (Without Parameters)
 - Functions are reusable blocks of code.
 A function is created using the `def` keyword and executed by calling its name.
@@ -190,8 +198,6 @@ A default value is used when no argument is passed to the function.
 - Called functions with and without arguments.
 - Learned how default values improve flexibility.
 5. Docstrings
-
-
 - Docstrings describe the purpose of a function.
 A docstring is written inside triple quotes (`""" """`) immediately below the function definition.
 # What I Learned

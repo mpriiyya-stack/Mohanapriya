@@ -1,0 +1,9 @@
+python: 4
+is: 4
+easy: 1
+to: 1
+learn: 1
+powerful: 1
+learning: 1
+fun: 1
+everywhere: 1
