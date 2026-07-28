@@ -1,3 +1,4 @@
+random.randint(1, 100)
 def add(a, b):
     return a + b
 
