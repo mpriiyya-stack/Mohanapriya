@@ -266,3 +266,11 @@ Git branches allow developers to work on new features without affecting the main
 - Created a Number Guessing Game using the `random` module.
 - Used the `os` module to check whether files exist.
 - Understood the importance of modular programming and reusable code.
+
+# Day 5
+# What I Learned
+- Created and worked with multiple Git branches.
+- Practiced resolving merge conflicts in VS Code.
+- Learned the purpose of git restore, git reset, git revert and git stash.
+# Personal Notes
+Merge conflicts were confusing at first because I had to understand which changes to keep. After practicing with Git, I understood how conflicts are resolved and how different undo commands work.
