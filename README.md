@@ -274,3 +274,50 @@ Git branches allow developers to work on new features without affecting the main
 - Learned the purpose of git restore, git reset, git revert and git stash.
 # Personal Notes
 Merge conflicts were confusing at first because I had to understand which changes to keep. After practicing with Git, I understood how conflicts are resolved and how different undo commands work.
+
+# Day 6
+# 1. Object-Oriented Programming (OOP)
+- Learned the basics of Object-Oriented Programming in Python.
+- A class is a blueprint used to create objects.
+- An object is an instance of a class.
+# What I Learned
+- Created a `Student` class.
+- Created multiple objects from the same class.
+- Accessed object attributes using dot (`.`) notation.
+# 2. Constructors (__init__)
+- The `__init__()` method is called automatically when an object is created.
+# What I Learned
+- Initialized object data using constructors.
+- Passed values through parameters.
+- Stored values using `self`.
+# 3. Methods
+- Methods are functions defined inside a class.
+# What I Learned
+- Created an `introduce()` method.
+- Called methods using objects.
+- Used f-strings to display object information.
+# 4. Class Attribute vs Instance Attribute
+- Class attributes are shared by all objects.
+- Instance attributes belong to individual objects.
+# What I Learned
+- Created a class attribute (`college`).
+- Created instance attributes (`name`, `age`).
+- Understood the difference between shared and individual data.
+# 5. self Keyword
+- `self` refers to the current object.
+# What I Learned
+- Learned why every instance method needs `self`.
+- Observed the error when `self` was removed.
+- Fixed the error by adding `self` back.
+# 6. TodoList Class
+- Built a simple Todo List using OOP.
+# What I Learned
+- Added tasks using `add_task()`.
+- Removed tasks using `remove_task()`.
+- Displayed tasks using `list_tasks()`.
+- Handled removing a task that does not exist.
+# 7. Extra Practice
+# What I Learned
+- Created a `Car` class.
+- Practiced creating objects and calling methods.
+- Improved confidence in writing simple OOP programs.
