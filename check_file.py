@@ -4,6 +4,6 @@ if os.path.exists("input.txt"):
     with open("input.txt", "r") as f:
         content = f.read()
     print(content)
-else:
+   else:
     print("File does not exist.")
     

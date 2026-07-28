@@ -1,0 +1,5 @@
+Hello, this is priya
+Welcome to Python .
+Today I learned how to write to a file.
+This is my fourth line.
+This is my fifth line.
