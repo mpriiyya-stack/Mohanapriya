@@ -321,3 +321,24 @@ Merge conflicts were confusing at first because I had to understand which change
 - Created a `Car` class.
 - Practiced creating objects and calling methods.
 - Improved confidence in writing simple OOP programs.
+
+# Day 7
+# 1. Inheritance
+- Learned how child classes inherit properties and methods from parent classes.
+
+# What I Learned
+- Created a `PriorityTodo` class using inheritance.
+- Used `super()` to access parent class methods.
+
+# 2. Method Overriding
+
+# What I Learned
+- Overrode the `list_tasks()` method.
+- Displayed tasks with their priorities.
+
+# 3. File Persistence
+
+# What I Learned
+- Saved tasks to a text file.
+- Loaded tasks from a text file.
+- Used `try` and `except FileNotFoundError`.
